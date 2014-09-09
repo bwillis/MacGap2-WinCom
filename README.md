@@ -1,7 +1,3 @@
-[![Gitter chat](https://badges.gitter.im/MacGapProject/MacGap2.png)](https://gitter.im/MacGapProject/MacGap2)
+# MacGap 2 inter window communication through localStorage
 
-# Welcome to MacGap 2.
-
-For usage notes and API documentation, visit http://docs.macgap.com.
-
-To submit an issue or ask for help, go to the GitHub issue queue at https://github.com/MacGapProject/MacGap2/issues
+This is a proof of concept to test if localStorage in MacGap 2 and verifying that between open windows localStorage events are triggered.
